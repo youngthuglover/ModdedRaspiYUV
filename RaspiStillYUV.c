@@ -2,7 +2,7 @@
 
 ////////////////////////////////////////////////////////////////////////
 
-RaspiStillYUV modded by YoungThugLover
+RaspiStillYUV modded
 
 This program enables the usage of raspiyuv to take and process images.
 It also enables the usage of ivport's multiplexer to switch camera input
